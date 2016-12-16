@@ -1,10 +1,10 @@
 # Site settings site.title
-title: Chào mừng bạn đến với Công ty TNHH Kho vận Danko
+title: Công ty TNHH MTV Vận tải Delta
 url: "https://minh-vu.github.io"   # domain-name 
-baseurl: "/danko"                      # repo-name 
+baseurl: "/delta"                      # repo-name 
 description: "Vận chuyển nội địa, quốc tế, hải quan, trucking container"
 
-copyright_name: Danko #footer
+copyright_name: Delta #footer
 header-img: img/home-bg.jpg
 email: nguyencongvu@gmail.com
 author: "Vu, Nguyen"
@@ -29,12 +29,12 @@ google_plus_id:  "101600677672081932719"
 google_form: "https://goo.gl/forms/UNBSCvJQMnKi3WRZ2" # POPUP contact-form 
 
 #footer contact vcard --> EDIT 
-contact_name: "Danko Logistics (Vietnam) Co., Ltd.- Ho Chi Minh City Branch" 
+contact_name: "DELTA INTERNATIONAL CO., LTD." 
 contact_call_to: "+84937980003"
-contact_phone: "(+84-8) 3811 4033"
-contact_fax: "(+84-8) 3811 4037"
-contact_address: "Room 6A, CT-IN Building, 435 Hoang Van Thu Str., Ward 4, Tan Binh Dist."
-contact_city: "TP.Hồ Chí Minh"
+contact_phone: "(+84) 4 3556 3356 "
+contact_fax: "(+84) 4 3556 3369"
+contact_address: "Tầng 14, tòa nhà Zodiac, đường Duy Tân, quận Cầu Giấy,"
+contact_city: "TP.Hà Nội"
 contact_country: "Vietnam"
 
 # Analytics --> EDIT if needed 
